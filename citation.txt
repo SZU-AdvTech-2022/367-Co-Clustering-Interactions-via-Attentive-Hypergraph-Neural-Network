@@ -1,0 +1,6 @@
+@inproceedings{REPO-368,
+    author = "Yang, Tianchi and Yang, Cheng and Zhang, Luhao and Shi, Chuan and Hu, Maodi and Liu, Huaijun and Li, Tao and Wang, Dong",
+    booktitle = "Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '22)",
+    title = "{Co-Clustering Interactions via Attentive Hypergraph Neural Network}",
+    year = "2022"
+}
